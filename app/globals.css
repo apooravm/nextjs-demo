@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar-link {
+    @apply text-gray-400 hover:text-gray-700 duration-500
+}
